@@ -317,7 +317,7 @@ class _VacuumControllerPageState extends State<VacuumControllerPage> {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         const Text(
-          'Jupiter Vacuum',
+          'Jupiter',
           style: TextStyle(
             color: Colors.white,
             fontSize: 28,
