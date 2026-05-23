@@ -1,0 +1,6 @@
+{
+  "TUYA_CLIENT_ID": "your_tuya_access_id",
+  "TUYA_CLIENT_SECRET": "your_tuya_access_secret",
+  "TUYA_DEVICE_ID": "your_tuya_device_id",
+  "TUYA_ENDPOINT": "https://openapi.tuyain.com"
+}
